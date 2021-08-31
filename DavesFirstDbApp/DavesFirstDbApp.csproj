@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{96594E1C-259E-4DF4-BF66-CA60EA110884}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AnotherDbTest</RootNamespace>
-    <AssemblyName>AnotherDbTest</AssemblyName>
+    <RootNamespace>DavesFirstDbApp</RootNamespace>
+    <AssemblyName>DavesFirstDbApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
