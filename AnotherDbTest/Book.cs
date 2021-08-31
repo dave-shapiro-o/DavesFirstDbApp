@@ -1,6 +1,6 @@
 ﻿
 
-namespace AnotherDbTest
+namespace DavesFirstDbApp
 {
     class Book
     {

@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Threading;
 using static System.Console;
 
-namespace AnotherDbTest
+namespace DavesFirstDbApp
 {
     class UserInterface
     {

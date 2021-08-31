@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnotherDbTest
+namespace DavesFirstDbApp
 {
     class Controller
     {

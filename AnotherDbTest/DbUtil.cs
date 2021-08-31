@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace AnotherDbTest
+namespace DavesFirstDbApp
 {
     class DbUtil
     {
