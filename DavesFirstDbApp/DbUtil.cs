@@ -58,7 +58,6 @@ namespace DavesFirstDbApp
         internal static void SetConnectionString(string dataSource, string dbName)
         {
             connectionString = $@"Data Source={dataSource};Initial Catalog={dbName};Integrated Security=True";
-            //connectionString = @"Data Source=C:\Users\New PC\source\repos\AnotherDbTest\AnotherDbTest\bin\Debug\Dave_Db_Test.mdf";
         }
 
         internal static int ReturnTable(string input)
