@@ -145,7 +145,7 @@ namespace DavesFirstDbApp
                     message = "Invalid data. Cop on, you eedjit.";
                     break;
                 case 3:
-                    message = "Well, you've ballsed it up again.";
+                    message = "Well, you've messed it up again.";
                     break;
             }
 
